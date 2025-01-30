@@ -19,3 +19,5 @@ mlartifacts/
 penguins.db
 sample.json
 
+mlflow.db
+uv.lock
