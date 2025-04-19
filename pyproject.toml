@@ -13,7 +13,7 @@ dependencies = [
     "keras==3.8.0",
     "metaflow>=2.13",
     "metaflow-card-html>=1.0.2",
-    "mlflow[extras]==2.20.2",
+    "mlflow[extras]>=2.21.3",
     "mlserver>=1.6.1",
     "mlserver-mlflow>=1.6.1",
     "numpy>=1.26.4",
